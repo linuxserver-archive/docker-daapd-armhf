@@ -1,4 +1,4 @@
-FROM lsiobase/alpine
+FROM lsiobase/alpine.armhf
 MAINTAINER sparklyballs
 
 # package version
@@ -53,7 +53,7 @@ RUN \
 	libtool \
 	libunistring-dev \
 	make \
-	openjdk8-jre-base \
+	openjdk7-jre-base \
 	protobuf-c-dev \
 	sqlite-dev \
 	taglib-dev \
