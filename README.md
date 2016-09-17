@@ -11,7 +11,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
 # lsioarmhf/daapd
-[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/daapd.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/daapd.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-daapd)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-daapd/)
+[![](https://images.microbadger.com/badges/image/lsioarmhf/daapd.svg)](https://microbadger.com/images/lsioarmhf/daapd "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/daapd.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/daapd.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-daapd)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-daapd/)
 [hub]: https://hub.docker.com/r/lsioarmhf/daapd/
 
 [Forked-Daapd][daapdurl] (iTunes) media server with support for AirPlay devices, Apple Remote (and compatibles), Chromecast, MPD and internet radio.
