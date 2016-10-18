@@ -78,5 +78,5 @@ For further setup options of remotes etc, check out the daapd website, [Forked-d
 
 ## Versions
 
-+ **14-10-16:** Add version layer information.
++ **14.10.16:** Add version layer information.
 + **17.09.16:** Initial Release.
