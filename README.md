@@ -78,5 +78,6 @@ For further setup options of remotes etc, check out the daapd website, [Forked-d
 
 ## Versions
 
++ **10.01.17:** Bump to version 24.2.
 + **14.10.16:** Add version layer information.
 + **17.09.16:** Initial Release.
