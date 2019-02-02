@@ -5,7 +5,7 @@
 [appurl]: https://ejurgensen.github.io/forked-daapd/
 [hub]: https://hub.docker.com/r/lsioarmhf/daapd/
 
-THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/daapd
+THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/daapd`
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
